@@ -1,0 +1,83 @@
+INFO:     Uvicorn running on http://0.0.0.0:8002 (Press CTRL+C to quit)
+INFO:     Started parent process [13757]
+INFO:     Started server process [13762]
+INFO:     Waiting for application startup.
+INFO:     Started server process [13764]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Application startup complete.
+INFO:     Started server process [13761]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Started server process [13763]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+2026-05-05 21:47:15,600 [INFO] httpx: HTTP Request: POST https://tautckfwryblypqmpqun.supabase.co/rest/v1/processing_jobs "HTTP/2 201 Created"
+2026-05-05 21:47:15,632 [INFO] routes.process: [ca988de6-960c-43db-9f43-f086427be14c] Worker subprocess launched for https://www.youtube.com/watch?v=dQw4w9WgXcQ
+INFO:     127.0.0.1:51951 - "POST /api/process HTTP/1.1" 200 OK
+2026-05-05 21:47:15,790 [INFO] httpx: HTTP Request: GET https://tautckfwryblypqmpqun.supabase.co/rest/v1/processing_jobs?select=%2A&id=eq.ca988de6-960c-43db-9f43-f086427be14c "HTTP/2 200 OK"
+INFO:     127.0.0.1:51951 - "GET /api/jobs/ca988de6-960c-43db-9f43-f086427be14c HTTP/1.1" 200 OK
+2026-05-05 21:47:15,826 [INFO] httpx: HTTP Request: GET https://tautckfwryblypqmpqun.supabase.co/rest/v1/processing_jobs?select=%2A&id=eq.ca988de6-960c-43db-9f43-f086427be14c "HTTP/2 200 OK"
+INFO:     127.0.0.1:51951 - "GET /api/jobs/ca988de6-960c-43db-9f43-f086427be14c HTTP/1.1" 200 OK
+2026-05-05 21:47:18,781 [INFO] httpx: HTTP Request: GET https://tautckfwryblypqmpqun.supabase.co/rest/v1/processing_jobs?select=%2A&id=eq.ca988de6-960c-43db-9f43-f086427be14c "HTTP/2 200 OK"
+INFO:     127.0.0.1:51951 - "GET /api/jobs/ca988de6-960c-43db-9f43-f086427be14c HTTP/1.1" 200 OK
+2026-05-05 21:47:21,909 [INFO] httpx: HTTP Request: GET https://tautckfwryblypqmpqun.supabase.co/rest/v1/processing_jobs?select=%2A&id=eq.ca988de6-960c-43db-9f43-f086427be14c "HTTP/2 200 OK"
+INFO:     127.0.0.1:51951 - "GET /api/jobs/ca988de6-960c-43db-9f43-f086427be14c HTTP/1.1" 200 OK
+2026-05-05 21:47:24,791 [INFO] httpx: HTTP Request: GET https://tautckfwryblypqmpqun.supabase.co/rest/v1/processing_jobs?select=%2A&id=eq.ca988de6-960c-43db-9f43-f086427be14c "HTTP/2 200 OK"
+INFO:     127.0.0.1:51951 - "GET /api/jobs/ca988de6-960c-43db-9f43-f086427be14c HTTP/1.1" 200 OK
+2026-05-05 21:47:27,781 [INFO] httpx: HTTP Request: GET https://tautckfwryblypqmpqun.supabase.co/rest/v1/processing_jobs?select=%2A&id=eq.ca988de6-960c-43db-9f43-f086427be14c "HTTP/2 200 OK"
+INFO:     127.0.0.1:51951 - "GET /api/jobs/ca988de6-960c-43db-9f43-f086427be14c HTTP/1.1" 200 OK
+2026-05-05 21:47:30,781 [INFO] httpx: HTTP Request: GET https://tautckfwryblypqmpqun.supabase.co/rest/v1/processing_jobs?select=%2A&id=eq.ca988de6-960c-43db-9f43-f086427be14c "HTTP/2 200 OK"
+INFO:     127.0.0.1:51951 - "GET /api/jobs/ca988de6-960c-43db-9f43-f086427be14c HTTP/1.1" 200 OK
+2026-05-05 21:47:33,793 [INFO] httpx: HTTP Request: GET https://tautckfwryblypqmpqun.supabase.co/rest/v1/processing_jobs?select=%2A&id=eq.ca988de6-960c-43db-9f43-f086427be14c "HTTP/2 200 OK"
+INFO:     127.0.0.1:51951 - "GET /api/jobs/ca988de6-960c-43db-9f43-f086427be14c HTTP/1.1" 200 OK
+2026-05-05 21:47:36,782 [INFO] httpx: HTTP Request: GET https://tautckfwryblypqmpqun.supabase.co/rest/v1/processing_jobs?select=%2A&id=eq.ca988de6-960c-43db-9f43-f086427be14c "HTTP/2 200 OK"
+INFO:     127.0.0.1:51951 - "GET /api/jobs/ca988de6-960c-43db-9f43-f086427be14c HTTP/1.1" 200 OK
+2026-05-05 21:47:39,780 [INFO] httpx: HTTP Request: GET https://tautckfwryblypqmpqun.supabase.co/rest/v1/processing_jobs?select=%2A&id=eq.ca988de6-960c-43db-9f43-f086427be14c "HTTP/2 200 OK"
+INFO:     127.0.0.1:51951 - "GET /api/jobs/ca988de6-960c-43db-9f43-f086427be14c HTTP/1.1" 200 OK
+2026-05-05 21:47:42,786 [INFO] httpx: HTTP Request: GET https://tautckfwryblypqmpqun.supabase.co/rest/v1/processing_jobs?select=%2A&id=eq.ca988de6-960c-43db-9f43-f086427be14c "HTTP/2 200 OK"
+INFO:     127.0.0.1:51951 - "GET /api/jobs/ca988de6-960c-43db-9f43-f086427be14c HTTP/1.1" 200 OK
+2026-05-05 21:47:45,810 [INFO] httpx: HTTP Request: GET https://tautckfwryblypqmpqun.supabase.co/rest/v1/processing_jobs?select=%2A&id=eq.ca988de6-960c-43db-9f43-f086427be14c "HTTP/2 200 OK"
+INFO:     127.0.0.1:51951 - "GET /api/jobs/ca988de6-960c-43db-9f43-f086427be14c HTTP/1.1" 200 OK
+2026-05-05 21:47:48,832 [INFO] httpx: HTTP Request: GET https://tautckfwryblypqmpqun.supabase.co/rest/v1/processing_jobs?select=%2A&id=eq.ca988de6-960c-43db-9f43-f086427be14c "HTTP/2 200 OK"
+INFO:     127.0.0.1:51951 - "GET /api/jobs/ca988de6-960c-43db-9f43-f086427be14c HTTP/1.1" 200 OK
+2026-05-05 21:47:51,785 [INFO] httpx: HTTP Request: GET https://tautckfwryblypqmpqun.supabase.co/rest/v1/processing_jobs?select=%2A&id=eq.ca988de6-960c-43db-9f43-f086427be14c "HTTP/2 200 OK"
+INFO:     127.0.0.1:51951 - "GET /api/jobs/ca988de6-960c-43db-9f43-f086427be14c HTTP/1.1" 200 OK
+2026-05-05 21:47:54,787 [INFO] httpx: HTTP Request: GET https://tautckfwryblypqmpqun.supabase.co/rest/v1/processing_jobs?select=%2A&id=eq.ca988de6-960c-43db-9f43-f086427be14c "HTTP/2 200 OK"
+INFO:     127.0.0.1:51951 - "GET /api/jobs/ca988de6-960c-43db-9f43-f086427be14c HTTP/1.1" 200 OK
+2026-05-05 21:47:57,799 [INFO] httpx: HTTP Request: GET https://tautckfwryblypqmpqun.supabase.co/rest/v1/processing_jobs?select=%2A&id=eq.ca988de6-960c-43db-9f43-f086427be14c "HTTP/2 200 OK"
+INFO:     127.0.0.1:51951 - "GET /api/jobs/ca988de6-960c-43db-9f43-f086427be14c HTTP/1.1" 200 OK
+2026-05-05 21:48:00,794 [INFO] httpx: HTTP Request: GET https://tautckfwryblypqmpqun.supabase.co/rest/v1/processing_jobs?select=%2A&id=eq.ca988de6-960c-43db-9f43-f086427be14c "HTTP/2 200 OK"
+INFO:     127.0.0.1:51951 - "GET /api/jobs/ca988de6-960c-43db-9f43-f086427be14c HTTP/1.1" 200 OK
+2026-05-05 21:48:03,780 [INFO] httpx: HTTP Request: GET https://tautckfwryblypqmpqun.supabase.co/rest/v1/processing_jobs?select=%2A&id=eq.ca988de6-960c-43db-9f43-f086427be14c "HTTP/2 200 OK"
+INFO:     127.0.0.1:51951 - "GET /api/jobs/ca988de6-960c-43db-9f43-f086427be14c HTTP/1.1" 200 OK
+2026-05-05 21:48:06,793 [INFO] httpx: HTTP Request: GET https://tautckfwryblypqmpqun.supabase.co/rest/v1/processing_jobs?select=%2A&id=eq.ca988de6-960c-43db-9f43-f086427be14c "HTTP/2 200 OK"
+INFO:     127.0.0.1:51951 - "GET /api/jobs/ca988de6-960c-43db-9f43-f086427be14c HTTP/1.1" 200 OK
+2026-05-05 21:48:09,801 [INFO] httpx: HTTP Request: GET https://tautckfwryblypqmpqun.supabase.co/rest/v1/processing_jobs?select=%2A&id=eq.ca988de6-960c-43db-9f43-f086427be14c "HTTP/2 200 OK"
+INFO:     127.0.0.1:51951 - "GET /api/jobs/ca988de6-960c-43db-9f43-f086427be14c HTTP/1.1" 200 OK
+2026-05-05 21:48:12,812 [INFO] httpx: HTTP Request: GET https://tautckfwryblypqmpqun.supabase.co/rest/v1/processing_jobs?select=%2A&id=eq.ca988de6-960c-43db-9f43-f086427be14c "HTTP/2 200 OK"
+INFO:     127.0.0.1:51951 - "GET /api/jobs/ca988de6-960c-43db-9f43-f086427be14c HTTP/1.1" 200 OK
+2026-05-05 21:48:15,779 [INFO] httpx: HTTP Request: GET https://tautckfwryblypqmpqun.supabase.co/rest/v1/processing_jobs?select=%2A&id=eq.ca988de6-960c-43db-9f43-f086427be14c "HTTP/2 200 OK"
+INFO:     127.0.0.1:51951 - "GET /api/jobs/ca988de6-960c-43db-9f43-f086427be14c HTTP/1.1" 200 OK
+2026-05-05 21:48:18,786 [INFO] httpx: HTTP Request: GET https://tautckfwryblypqmpqun.supabase.co/rest/v1/processing_jobs?select=%2A&id=eq.ca988de6-960c-43db-9f43-f086427be14c "HTTP/2 200 OK"
+INFO:     127.0.0.1:51951 - "GET /api/jobs/ca988de6-960c-43db-9f43-f086427be14c HTTP/1.1" 200 OK
+2026-05-05 21:48:21,792 [INFO] httpx: HTTP Request: GET https://tautckfwryblypqmpqun.supabase.co/rest/v1/processing_jobs?select=%2A&id=eq.ca988de6-960c-43db-9f43-f086427be14c "HTTP/2 200 OK"
+INFO:     127.0.0.1:51951 - "GET /api/jobs/ca988de6-960c-43db-9f43-f086427be14c HTTP/1.1" 200 OK
+2026-05-05 21:48:24,795 [INFO] httpx: HTTP Request: GET https://tautckfwryblypqmpqun.supabase.co/rest/v1/processing_jobs?select=%2A&id=eq.ca988de6-960c-43db-9f43-f086427be14c "HTTP/2 200 OK"
+INFO:     127.0.0.1:51951 - "GET /api/jobs/ca988de6-960c-43db-9f43-f086427be14c HTTP/1.1" 200 OK
+2026-05-05 21:48:27,795 [INFO] httpx: HTTP Request: GET https://tautckfwryblypqmpqun.supabase.co/rest/v1/processing_jobs?select=%2A&id=eq.ca988de6-960c-43db-9f43-f086427be14c "HTTP/2 200 OK"
+INFO:     127.0.0.1:51951 - "GET /api/jobs/ca988de6-960c-43db-9f43-f086427be14c HTTP/1.1" 200 OK
+2026-05-05 21:48:30,789 [INFO] httpx: HTTP Request: GET https://tautckfwryblypqmpqun.supabase.co/rest/v1/processing_jobs?select=%2A&id=eq.ca988de6-960c-43db-9f43-f086427be14c "HTTP/2 200 OK"
+INFO:     127.0.0.1:51951 - "GET /api/jobs/ca988de6-960c-43db-9f43-f086427be14c HTTP/1.1" 200 OK
+2026-05-05 21:48:33,797 [INFO] httpx: HTTP Request: GET https://tautckfwryblypqmpqun.supabase.co/rest/v1/processing_jobs?select=%2A&id=eq.ca988de6-960c-43db-9f43-f086427be14c "HTTP/2 200 OK"
+INFO:     127.0.0.1:51951 - "GET /api/jobs/ca988de6-960c-43db-9f43-f086427be14c HTTP/1.1" 200 OK
+2026-05-05 21:48:36,789 [INFO] httpx: HTTP Request: GET https://tautckfwryblypqmpqun.supabase.co/rest/v1/processing_jobs?select=%2A&id=eq.ca988de6-960c-43db-9f43-f086427be14c "HTTP/2 200 OK"
+INFO:     127.0.0.1:51951 - "GET /api/jobs/ca988de6-960c-43db-9f43-f086427be14c HTTP/1.1" 200 OK
+2026-05-05 21:48:39,799 [INFO] httpx: HTTP Request: GET https://tautckfwryblypqmpqun.supabase.co/rest/v1/processing_jobs?select=%2A&id=eq.ca988de6-960c-43db-9f43-f086427be14c "HTTP/2 200 OK"
+INFO:     127.0.0.1:51951 - "GET /api/jobs/ca988de6-960c-43db-9f43-f086427be14c HTTP/1.1" 200 OK
+2026-05-05 21:48:42,784 [INFO] httpx: HTTP Request: GET https://tautckfwryblypqmpqun.supabase.co/rest/v1/processing_jobs?select=%2A&id=eq.ca988de6-960c-43db-9f43-f086427be14c "HTTP/2 200 OK"
+INFO:     127.0.0.1:51951 - "GET /api/jobs/ca988de6-960c-43db-9f43-f086427be14c HTTP/1.1" 200 OK
+2026-05-05 21:48:45,778 [INFO] httpx: HTTP Request: GET https://tautckfwryblypqmpqun.supabase.co/rest/v1/processing_jobs?select=%2A&id=eq.ca988de6-960c-43db-9f43-f086427be14c "HTTP/2 200 OK"
+INFO:     127.0.0.1:51951 - "GET /api/jobs/ca988de6-960c-43db-9f43-f086427be14c HTTP/1.1" 200 OK
+2026-05-05 21:48:45,820 [INFO] httpx: HTTP Request: GET https://tautckfwryblypqmpqun.supabase.co/rest/v1/clips?select=%2A&user_id=eq.b340ea89-0a60-4d47-87f6-2bd35714176b&order=created_at.desc "HTTP/2 200 OK"
+INFO:     127.0.0.1:51951 - "GET /api/clips?user_id=b340ea89-0a60-4d47-87f6-2bd35714176b HTTP/1.1" 200 OK
