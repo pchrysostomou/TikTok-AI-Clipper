@@ -4,7 +4,7 @@
 ![Frontend](https://img.shields.io/badge/Frontend-Next.js-black?logo=next.js)
 ![Backend](https://img.shields.io/badge/Backend-FastAPI-009688?logo=fastapi)
 ![AI](https://img.shields.io/badge/AI-Whisper_%26_Llama_3-blue)
-
+ 
 An automated, end-to-end AI application that takes any long-form YouTube video, transcribes it, uses AI to find the most "viral" moments, automatically crops the video to vertical (9:16) format, and uploads the final clips ready for TikTok, YouTube Shorts, or Instagram Reels.
 
 ## ✨ Features
